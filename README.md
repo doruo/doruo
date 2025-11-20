@@ -1,7 +1,7 @@
 - 👋 Hi, I’m ✨ Marc Haye ✨
-- 👀 I’m interested in programming, gaming and music.
-- 🌱 I’m currently studying computer science at University of Montpellier.
-- 📫 You can reach me by my mail: marc.antonio.haye.pro@gmail.com.
+- 👀 I’m interested in programming, niche games and music.
+- 🌱 I’m currently working on a [Game of Life in Go](https://github.com/Doruo/GameOfLife), and collaborating on [anime-sama-downloader project](https://github.com/Fire0902/anime-sama-downloader) .
+- 📫 You can reach me by my [pro mail](marc.antonio.haye.pro@gmail.com).
 
 <!---
 Doruo/Doruo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
