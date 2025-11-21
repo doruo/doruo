@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!-- profile views -->
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=doruo&label=Profile%20views&color=21b60e&size=24&style=flat" alt="doruo" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=doruo&label=Profile%20views&color=146f09&size=24&style=flat" alt="doruo" /> </p>
 
 <!-- intro sentence -->
 <h3 align="center">
