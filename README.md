@@ -1,14 +1,14 @@
 <!---
-Doruo/Doruo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+doruo/doruo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
 <!-- profile views -->
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=doruo&label=Profile%20views&color=75b60e&size=24&style=flat" alt="doruo" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=doruo&label=Profile%20views&color=21b60e&size=24&style=flat" alt="doruo" /> </p>
 
 <!-- intro sentence -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=75b60e&size=35&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=Welcome+!+I'm+Marc" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=21b60e&size=35&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=Welcome+!+I'm+Marc" />
 </h3>
 
 ##
@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 <!-- presentation -->
 
 - 👀 I’m interested in programming, niche games and music.
-- 🌱 I’m currently working on a [Game of Life in Go](https://github.com/Doruo/GameOfLife), and collaborating on [anime-sama-downloader project](https://github.com/doruo/anime-sama-downloader) in vanilla JS.
+- 🌱 I’m currently working on a [Game of Life in Go](https://github.com/doruo/game-of-life), and collaborating on [anime-sama-downloader project](https://github.com/doruo/anime-sama-downloader) in vanilla JS.
 - 📫 You can reach me by my [pro mail](mailto:marc.antonio.haye.pro@gmail.com).
 
 ## 
@@ -24,9 +24,9 @@ You can click the Preview link to take a look at your changes.
 <!-- stats -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=doruo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=doruo&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=doruo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=doruo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=doruo&locale=en&mode=daily&theme=blue-green&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=doruo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ##
