@@ -3,19 +3,25 @@ Doruo/Doruo is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your changes.
 --->
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=doruo&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="doruo" /> </p>
+<!-- profile views -->
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=doruo&label=Profile%20views&color=75b60e&size=24&style=flat" alt="doruo" /> </p>
 
+<!-- intro sentence -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=Welcome+!+I'm+Marc" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=75b60e&size=35&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=Welcome+!+I'm+Marc" />
 </h3>
 
 ##
+
+<!-- presentation -->
 
 - 👀 I’m interested in programming, niche games and music.
 - 🌱 I’m currently working on a [Game of Life in Go](https://github.com/Doruo/GameOfLife), and collaborating on [anime-sama-downloader project](https://github.com/doruo/anime-sama-downloader) in vanilla JS.
 - 📫 You can reach me by my [pro mail](mailto:marc.antonio.haye.pro@gmail.com).
 
 ## 
+
+<!-- stats -->
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=doruo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -42,6 +48,8 @@ You can click the Preview link to take a look at your changes.
 ##
 
 ### Languages
+
+<!-- languages -->
 
 <div align="left">
   <img width="12" />
@@ -73,6 +81,8 @@ You can click the Preview link to take a look at your changes.
 ##
 
 ### Tools
+
+<!-- tools -->
 
 <div align="left">
   <img width="12" />
