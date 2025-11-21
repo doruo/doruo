@@ -12,8 +12,8 @@ You can click the Preview link to take a look at your changes.
 ##
 
 - 👀 I’m interested in programming, niche games and music.
-- 🌱 I’m currently working on a [Game of Life in Go](https://github.com/Doruo/GameOfLife), and collaborating on [anime-sama-downloader project](https://github.com/doruo/anime-sama-downloader) .
-- 📫 You can reach me by my [pro mail](marc.antonio.haye.pro@gmail.com).
+- 🌱 I’m currently working on a [Game of Life in Go](https://github.com/Doruo/GameOfLife), and collaborating on [anime-sama-downloader project](https://github.com/doruo/anime-sama-downloader) in vanilla JS.
+- 📫 You can reach me by my [pro mail](mailto:marc.antonio.haye.pro@gmail.com).
 
 ## 
 
