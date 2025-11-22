@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 <!-- presentation -->
 Im a 🇫🇷 IT bachelor student-apprentice, studing at the [University of Montpellier](https://www.umontpellier.fr), and working at [ITESOFT](https://www.itesoft.com). 
 - 👀 I’m interested in programming, niche games and music.
-- 🌱 I’m currently working on a [Game of Life in Go](https://github.com/doruo/game-of-life), and collaborating on an [anime-sama.org downloader project](https://github.com/Fire0902/anime-sama-downloader).
+- 🌱 I’m currently working on a [Game of Life in Go](https://github.com/doruo/go-of-life), and collaborating on an [anime-sama.org downloader project](https://github.com/Fire0902/anime-sama-downloader).
 - 📫 You can reach me by my [professional email](mailto:marc.haye.pro@protonmail.com).
 
 ## 
