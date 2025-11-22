@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 ##
 
 <!-- presentation -->
-Im a 🇫🇷 IT bachelor student at [University of Montpellier](https://www.umontpellier.fr). 
+Im a 🇫🇷 IT bachelor student-apprentice, studing at the [University of Montpellier](https://www.umontpellier.fr), and working at [ITESOFT](https://www.itesoft.com). 
 - 👀 I’m interested in programming, niche games and music.
 - 🌱 I’m currently working on a [Game of Life in Go](https://github.com/doruo/game-of-life), and collaborating on an [anime-sama.org downloader project](https://github.com/Fire0902/anime-sama-downloader).
 - 📫 You can reach me by my [professional email](mailto:marc.antonio.haye.pro@gmail.com).
@@ -102,11 +102,11 @@ Im a 🇫🇷 IT bachelor student at [University of Montpellier](https://www.umo
 ### Tools
 
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />  
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
   <img width="12" />
