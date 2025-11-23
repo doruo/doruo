@@ -15,8 +15,9 @@ You can click the Preview link to take a look at your changes.
 
 <!-- presentation -->
 Im a 🇫🇷 IT bachelor student-apprentice, studing at the [University of Montpellier](https://www.umontpellier.fr), and working at [ITESOFT](https://www.itesoft.com). 
-- 👀 I’m interested in programming, niche games and music.
-- 🌱 I’m currently working on a [Game of Life in Go](https://github.com/doruo/go-of-life), and collaborating on an [anime-sama.org downloader project](https://github.com/Fire0902/anime-sama-downloader).
+- 👀 I’m interested in programming, [niche games](https://fallout.bethesda.net/fr/games/fallout-new-vegas) and music.
+- 🌱 I’m currently working on a [Game of Life in Go](https://github.com/doruo/go-of-life) and a [instant messaging app](https://github.com/doruo/mesh), made with Go, VueJS and Tauri. 
+- 🌱 I'm also collaborating on an [anime-sama.org downloader project](https://github.com/Fire0902/anime-sama-downloader) in JS.
 - 📫 You can reach me by my [professional email](mailto:marc.haye.pro@protonmail.com).
 
 ## 
@@ -24,8 +25,7 @@ Im a 🇫🇷 IT bachelor student-apprentice, studing at the [University of Mont
 <!-- stats -->
 
 <div align="center">
-  
-  ![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doruo&theme=github_dark)
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doruo&theme=github_dark" />
   <img src="https://github-readme-stats.vercel.app/api?username=doruo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=doruo&locale=en&mode=daily&theme=blue-green&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=doruo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false" height="150" alt="languages graph"  />
