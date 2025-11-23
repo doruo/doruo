@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 ##
 
 <!-- presentation -->
-Im a 🇫🇷 IT bachelor student-apprentice, studying at the [University of Montpellier](https://www.umontpellier.fr), and working at [ITESOFT](https://www.itesoft.com). 
+Im a 🇫🇷 IT bachelor student-apprentice, studying at the [University of Montpellier](https://www.umontpellier.fr), and working at [Itesoft](https://www.itesoft.com). 
 - 👀 I’m interested in programming, [niche games](https://fallout.bethesda.net/fr/games/fallout-new-vegas) and music.
 - 🌱 I’m currently working on a [Game of Life in Go](https://github.com/doruo/go-of-life) and a [instant messaging app](https://github.com/doruo/mesh), made with Go, VueJS and Tauri. 
 - 🌱 I'm also collaborating on an [anime-sama.org downloader project](https://github.com/Fire0902/anime-sama-downloader) in JS.
