@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- presentation -->
 I am a 🇫🇷 CS bachelor student-apprentice, studying at the [University of Montpellier](https://www.umontpellier.fr), and working at [Itesoft](https://www.itesoft.com). 
-- 👀 I’m interested in programming, [niche games](https://fallout.bethesda.net/fr/games/fallout-new-vegas) and music.
+- 👀 I’m interested in programming, [niche games](https://steamcommunity.com/id/doruo), and music.
 - 🌱 I’m currently working on a [Game of Life in Go](https://github.com/doruo/go-of-life), and a [instant messaging app](https://github.com/doruo/mesh), made with Go, NuxtJS and Tauri 2.0. 
 - 🌱 I'm also collaborating on an [anime-sama.org downloader project](https://github.com/Fire0902/anime-sama-downloader) in JS.
 - 📫 You can reach me by my [professional email](mailto:marc.haye.pro@protonmail.com).
@@ -25,19 +25,18 @@ I am a 🇫🇷 CS bachelor student-apprentice, studying at the [University of M
 <!-- stats -->
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doruo&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api?username=doruo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=doruo&locale=en&mode=daily&theme=blue-green&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=doruo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false" height="150" alt="languages graph"  />
+  
+  ![GitHub Langages](https://github-readme-stats.vercel.app/api/top-langs?username=doruo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false)  
+   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=doruo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false)  
+  ![GitHub Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doruo&theme=github_dark))  
 </div>
 
 ##
 
 <div align="center">
-
-### Operating Systems
   
-  <img width="12" />
+### Operating Systems
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="30" alt="fedora logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" height="30" alt="ubuntu logo"  />
@@ -50,10 +49,9 @@ I am a 🇫🇷 CS bachelor student-apprentice, studying at the [University of M
 ##
 
 <div align="center">
-
+  
 ### Backend
 
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="nest logo"  />
@@ -80,10 +78,9 @@ I am a 🇫🇷 CS bachelor student-apprentice, studying at the [University of M
 ##
 
 <div align="center">
-
+  
 ### Frontend
   
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxt/nuxt-original.svg" height="30" alt="nuxtjs logo"  />
@@ -97,13 +94,12 @@ I am a 🇫🇷 CS bachelor student-apprentice, studying at the [University of M
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
 </div>
 
-<div align="center">
-
 ##
 
+<div align="center">
+  
 ### Tools
-
-  <img width="12" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />  
