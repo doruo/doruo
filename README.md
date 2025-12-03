@@ -26,9 +26,7 @@ I am a 🇫🇷 CS bachelor student-apprentice, studying at the [University of M
 
 <div align="center">
   
-  ![GitHub Langages](https://github-readme-stats.vercel.app/api/top-langs?username=doruo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false)  
-   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=doruo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false)  
-  ![GitHub Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doruo&theme=github_dark))  
+  ![GitHub Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doruo&theme=github_dark)
 </div>
 
 ##
