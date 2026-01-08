@@ -7,7 +7,9 @@
 <!-- intro sentence -->
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=21b60e&size=35&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=Welcome+!+I'm+Marc" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=21b60e&size=35&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=Welcome+!+I'm+Marc,;A+student+in+computer+science,;Passionate+by+the+web+and+innovation,;I+do+softwares,+APIs,+(and+discovering+AI),;Chech+out+my+stuff+!+:)"
+    />
 </h3>
 
 ##
@@ -18,9 +20,9 @@ I am a 🇫🇷 CS bachelor student-apprentice, studying at the [University of M
 
 - 👀 I’m interested in programming, [niche games](https://steamcommunity.com/id/doruo), and music.
   
-- 🌱 I’m currently working on an [anime auto-downloader](https://github.com/Fire0902/anime-sama-downloader).
+- 🌱 I’m currently working on discovering AIs by creating a [LLM From Stratch](https://github.com/doruo/llm-from-stratch) using [PyTorch](https://pytorch.org/) framework.
   
-- 🌱 I also recently collaborated on a [Game of Life](https://github.com/doruo/go-of-life), and a [instant messaging app](https://github.com/doruo/mesh), both made with Go.
+- 🌱 I also recently collaborated on an [media auto-downloader](https://github.com/Fire0902/anime-sama-downloader) in Typescript.
   
 - 📫 You can reach me by my [professional email](mailto:marc.haye.pro@protonmail.com).
 
