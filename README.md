@@ -25,6 +25,22 @@ I am a 🇫🇷 CS bachelor student-apprentice, studying at the [University of M
 <!-- stats -->
 
 <div align="center">
+  <a href="https://github.com/doruo/beautiful-github-homepage">
+    <picture>
+      <img align="" height='150px'
+        src="https://beautiful-github-homepage.vercel.app/api?username=doruo&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" 
+        alt="aryashah2k" 
+        />
+    </picture>
+  </a>
+  <a href="https://github.com/doruo/beautiful-github-homepage">
+    <picture>
+      <img align="" height='150px' 
+        src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=doruo&hide_title=false&layout=compact&theme=gotham&count_private=true" 
+        />
+    </picture>
+  </a>
+</p>
   
   ![GitHub Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doruo&theme=github_dark)
 </div>
