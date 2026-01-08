@@ -1,12 +1,11 @@
-<!---
-doruo/doruo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--- doruo/doruo README.md --->
 
 <!-- profile views -->
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=doruo&label=Profile%20views&color=146f09&size=24&style=flat" alt="doruo" /> </p>
 
 <!-- intro sentence -->
+
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=21b60e&size=35&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=Welcome+!+I'm+Marc" />
 </h3>
@@ -14,13 +13,18 @@ You can click the Preview link to take a look at your changes.
 ##
 
 <!-- presentation -->
-I am a 🇫🇷 CS bachelor student-apprentice, studying at the [University of Montpellier](https://www.umontpellier.fr), and working at [ITESOFT](https://www.itesoft.com). 
+
+I am a 🇫🇷 CS bachelor student-apprentice, studying at the [University of Montpellier](https://www.umontpellier.fr), and working at [ITESOFT](https://www.itesoft.com).
+
 - 👀 I’m interested in programming, [niche games](https://steamcommunity.com/id/doruo), and music.
-- 🌱 I’m currently working on a [Game of Life](https://github.com/doruo/go-of-life), and a [instant messaging app](https://github.com/doruo/mesh), both made with Go. 
-- 🌱 I also recently collaborated on an [anime auto-downloader](https://github.com/Fire0902/anime-sama-downloader) and a [URL checker browser extension](https://github.com/Mael-Nicolas/SafeLink) using [PhiShark](https://phishark.net/).
+  
+- 🌱 I’m currently working on an [anime auto-downloader](https://github.com/Fire0902/anime-sama-downloader).
+  
+- 🌱 I also recently collaborated on a [Game of Life](https://github.com/doruo/go-of-life), and a [instant messaging app](https://github.com/doruo/mesh), both made with Go.
+  
 - 📫 You can reach me by my [professional email](mailto:marc.haye.pro@protonmail.com).
 
-## 
+##
 
 <!-- stats -->
 
@@ -45,105 +49,191 @@ I am a 🇫🇷 CS bachelor student-apprentice, studying at the [University of M
   ![GitHub Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doruo&theme=github_dark)
 </div>
 
+<!-- NEW SKILLS VERSION -->
+
 ##
-
-<div align="center">
-  
-### Operating Systems
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="30" alt="fedora logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" height="30" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" height="30" alt="windows logo"  />
-</div>
 
 <!-- languages -->
 
-##
-
 <div align="center">
   
+### AI LLMs
+
+<table>
+ <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=anaconda" width="65" height="65" alt="anaconda" />
+      <br>Anaconda
+    </td>
+    <td align="center"  width="96">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="65" height="65" alt="pytorch" />
+      <br>PyTorch
+    </td>
+ </tr>
+</table>
+
 ### Web & softwares
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="nest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="30" alt="symfony logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="30" alt="scala logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nestjs" alt="icon" width="65" height="65" />
+      <br>NestJS
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=c" width="65" height="65" alt="c" />
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Nodejs" />
+      <br>Nodejs
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=symfony" width="65" height="65" alt="PHP" />
+      <br>Symfony
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=go" width="65" height="65" alt="go" />
+      <br>Go
+    </td>
+</tr>
+</table>
 
 ##
 
-<div align="center">
-  
-### Frontend
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxt/nuxt-original.svg" height="30" alt="nuxtjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tauri/tauri-original.svg" height="30" alt="tauri logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-</div>
-
-##
-
-<div align="center">
-  
 ### Databases
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />  
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />  
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />  
-  <img width="12" />
-</div>
+
+<table>
+ <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
+      <br>Postgre
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="65" height="65" />
+      <br>SQLite
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cassandra" width="65" height="65" alt="CassandraDB" />
+      <br>Cassandra
+    </td>
+ </tr>
+</table>
 
 ##
 
-<div align="center">
-  
-### AI LLM
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />  
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-</div>
+### FRONTEND
+
+<table>
+ <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vue" width="65" height="65" alt="Vue" />
+      <br>Vue
+    </td>
+    <td align="center"  width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center"  width="96">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center"  width="96">
+      <img src="https://skillicons.dev/icons?i=nuxt" width="65" height="65" alt="bootstrap" />
+      <br>Nuxt
+    </td>
+ </tr>
+</table>
 
 ##
 
-<div align="center">
-  
-### Tools
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="30" alt="gradle logo"  />  
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" height="30" alt="json logo"  />  
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="30" alt="swagger logo"  />
+### TOOLS
+
+<table>
+ <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="restapi" width="65" height="65" />
+      <br>REST
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="webpack" width="65" height="65" />
+      <br>Webpack
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="RaspberryPi" width="65" height="65" />
+      <br>RaspberryPi
+   </td>
+  </tr>
+ <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="65" height="65" alt="Prettier" />
+      <br>Prettier
+    </td>
+    <td align="center" width="96">
+     <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="65" height="65" />
+     <br>Jest
+    </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=gradle" width="65" height="65" alt="Gradle" />
+    <br>Gradle
+  </td>
+  <td align="center" width="96">
+   <img src="https://skillicons.dev/icons?i=bash" width="65" height="65" alt="Bash" />
+   <br>Bash
+  </td>
+ </tr>
+</table>
+
+##
+
+### Operating Systems
+
+<table>
+ <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=windows" width="65" height="65" alt="Windows" />
+      <br>Windows
+    </td>
+    <td align="center"  width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="HTML5" />
+      <br>Linux
+    </td>
+    <td align="center"  width="96">
+      <img src="https://skillicons.dev/icons?i=redhat" width="65" height="65" alt="RedHat" />
+      <br>Red Hat
+    </td>
+ </tr>
+</table>
 </div>
