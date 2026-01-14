@@ -74,6 +74,8 @@ I am a 🇫🇷 CS bachelor student-apprentice, studying at the [University of M
  </tr>
 </table>
 
+##
+
 ### Web & softwares
 
 <table align="center">
