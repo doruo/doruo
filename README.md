@@ -144,12 +144,6 @@ I am a 🇫🇷 CS bachelor student-apprentice, studying at the [University of M
       <br>SQLite
     </td>
   </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cassandra" width="65" height="65" alt="CassandraDB" />
-      <br>Cassandra
-    </td>
- </tr>
 </table>
 
 ##
