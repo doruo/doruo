@@ -16,15 +16,7 @@
 
 <!-- presentation -->
 
-I am a 🇫🇷 CS bachelor student-apprentice, studying at the [University of Montpellier](https://www.umontpellier.fr), and working at [ITESOFT](https://www.itesoft.com).
-
-- 👀 I’m interested in programming, [niche games](https://steamcommunity.com/id/doruo), and music.
-  
-- 🌱 I’m currently working on discovering AIs by creating a [LLM From Stratch](https://github.com/doruo/llm-from-stratch) using [PyTorch](https://pytorch.org/) framework.
-  
-- 🌱 I also recently collaborated on an [media auto-downloader](https://github.com/Fire0902/anime-sama-downloader) in Typescript.
-  
-- 📫 You can reach me by my [professional email](mailto:marc.haye.pro@protonmail.com).
+![Profile details](https://cardivo.vercel.app/api?name=Marc+Haye&description=🇫🇷+CS+bachelor+student-apprentice,+studying+at+the+University+of+Montpellier,+and+working+at+ITESOFT&image=https://avatars.githubusercontent.com/u/99607131?v=4&backgroundColor=%23ffffff&pattern=wiggle&opacity=0.1&site=https://marchaye.fr&github=doruo&linkedin=Marc+Haye)
 
 ##
 
@@ -148,32 +140,7 @@ I am a 🇫🇷 CS bachelor student-apprentice, studying at the [University of M
 
 ##
 
-### FRONTEND
-
-<table>
- <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vue" width="65" height="65" alt="Vue" />
-      <br>Vue
-    </td>
-    <td align="center"  width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center"  width="96">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center"  width="96">
-      <img src="https://skillicons.dev/icons?i=nuxt" width="65" height="65" alt="bootstrap" />
-      <br>Nuxt
-    </td>
- </tr>
-</table>
-
-##
-
-### TOOLS
+### Tools
 
 <table>
  <tr>
@@ -213,25 +180,3 @@ I am a 🇫🇷 CS bachelor student-apprentice, studying at the [University of M
   </td>
  </tr>
 </table>
-
-##
-
-### Operating Systems
-
-<table>
- <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=windows" width="65" height="65" alt="Windows" />
-      <br>Windows
-    </td>
-    <td align="center"  width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="HTML5" />
-      <br>Linux
-    </td>
-    <td align="center"  width="96">
-      <img src="https://skillicons.dev/icons?i=redhat" width="65" height="65" alt="RedHat" />
-      <br>Red Hat
-    </td>
- </tr>
-</table>
-</div>
