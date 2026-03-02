@@ -8,7 +8,7 @@
 
 <h3 align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=21b60e&size=35&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=Welcome+!+I'm+Marc,;A+student+in+computer+science,;Passionate+by+the+web+and+innovation,;I+do+softwares,+APIs,+(and+discovering+AI),;Chech+out+my+stuff+!+:)"
+    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=21b60e&size=35&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=Welcome+!+I'm+Marc,;A+student+in+computer+science,;Passionate+by+the+web+and+innovation,;For+a+decentralized+and+free+internet,;Chech+out+my+stuff+!+:)"
     />
 </h3>
 
